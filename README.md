@@ -20,8 +20,11 @@ The dataset provides information about customer transactions, including:
 
 This data was likely compiled or extracted from a customer transaction database for analysis purposes.
 
-To get data [click here]()
+# To get data
+[click here](https://github.com/edigasreelekha/Customer_-trend-Analysis/blob/main/customer%20data.csv)
 
+# To see Dashboard
+[Click Here]()
 ## Data Dictionary
 
 | Column Name       | Description                                                                 | Data Type | Example                   |
