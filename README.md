@@ -24,7 +24,7 @@ This data was likely compiled or extracted from a customer transaction database 
 [click here](https://github.com/edigasreelekha/Customer_-trend-Analysis/blob/main/customer%20data.csv)
 
 # To see Dashboard
-[Click Here]()
+[Click Here](https://github.com/edigasreelekha/Customer_-trend-Analysis/blob/main/Dashboard%20.png)
 ## Data Dictionary
 
 | Column Name       | Description                                                                 | Data Type | Example                   |
